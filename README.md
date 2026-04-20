@@ -6,4 +6,6 @@
 
 [Animal Parade Walkthrough](https://youtu.be/m1RLnwaL8ag) 
 
-[Nested Repeats Video](https://youtu.be/2g5l0_dfRYg) <- CLICK HERE FOR VIDEO
+[Nested Repeats Video](https://youtu.be/2g5l0_dfRYg) 
+
+[Events with Monkey Video](https://youtu.be/RkaEi_twYEo) <- CLICK HERE FOR VIDEO
