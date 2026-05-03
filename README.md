@@ -10,4 +10,6 @@
 
 [Events with Monkey Video](https://youtu.be/RkaEi_twYEo) 
 
-[Shapes and Variables](https://youtu.be/B0VvYeodR1M)<- CLICK HERE FOR VIDEO
+[Shapes and Variables](https://youtu.be/B0VvYeodR1M)
+
+[Conditional Repeats](https://youtu.be/fbumEtIao-g) <- CLICK HERE FOR VIDEO
