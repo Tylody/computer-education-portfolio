@@ -12,4 +12,6 @@
 
 [Shapes and Variables](https://youtu.be/B0VvYeodR1M)
 
-[Conditional Repeats](https://youtu.be/fbumEtIao-g) <- CLICK HERE FOR VIDEO
+[Conditional Repeats](https://youtu.be/fbumEtIao-g) 
+
+[If-Else Conditions](https://youtu.be/YLE5GckUAhA) <- CLICK HERE FOR VIDEO
