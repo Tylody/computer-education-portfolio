@@ -16,4 +16,6 @@
 
 [If-Else Conditions](https://youtu.be/YLE5GckUAhA) 
 
-[Nested If-Else](https://youtu.be/j-WHcQ7PdjM) <- CLICK HERE FOR VIDEO
+[Nested If-Else](https://youtu.be/j-WHcQ7PdjM) 
+
+[Compound Conditionals](https://youtu.be/geUJcRxOje0) <- CLICK HERE FOR VIDEO
