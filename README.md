@@ -18,4 +18,6 @@
 
 [Nested If-Else](https://youtu.be/j-WHcQ7PdjM) 
 
-[Compound Conditionals](https://youtu.be/geUJcRxOje0) <- CLICK HERE FOR VIDEO
+[Compound Conditionals](https://youtu.be/geUJcRxOje0) 
+
+[Abstractions](https://youtu.be/dQj7bh808Mw) <- CLICK HERE FOR VIDEO
