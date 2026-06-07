@@ -20,4 +20,6 @@
 
 [Compound Conditionals](https://youtu.be/geUJcRxOje0) 
 
-[Abstractions](https://youtu.be/t1cDvJefzjY) <- CLICK HERE FOR VIDEO
+[Abstractions](https://youtu.be/t1cDvJefzjY) 
+
+[Lists](https://youtu.be/IcUBYucQXgI) <- CLICK HERE FOR VIDEO
